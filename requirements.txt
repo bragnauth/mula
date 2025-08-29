@@ -1,7 +1,8 @@
 streamlit
-google-generativeai
+google-generativeai==0.7.2
 gtts
 matplotlib
 base64
 pandas
 math
+
